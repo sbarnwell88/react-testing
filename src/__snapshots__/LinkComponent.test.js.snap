@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes state when hovered 1`] = `
+<a
+  href="http://localhost:3000/link"
+  onClick={[Function]}
+>
+  Home
+</a>
+`;
+
+exports[`Link changes state when hovered 2`] = `
+<a
+  href="http://localhost:3000/link"
+  onClick={[Function]}
+>
+  Home
+</a>
+`;
+
+exports[`Link changes state when hovered 3`] = `
+<a
+  href="http://localhost:3000/link"
+  onClick={[Function]}
+>
+  Home
+</a>
+`;
